@@ -1,3 +1,5 @@
 Мои первые попытки программировать для AMD64 на yasm.
 
 link.c, линковка gcc-программы и yasm-модуля (вызов asm-процедуры из GNU C).
+См. TDM-GCC, http://sourceforge.net/projects/tdm-gcc/files/TDM-GCC%20Installer/
+    Yasm for Windows, http://yasm.tortall.net/Download.html
