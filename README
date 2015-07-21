@@ -4,4 +4,5 @@ link.c, линковка gcc-программы и yasm-модуля (вызов
 См. TDM-GCC, http://sourceforge.net/projects/tdm-gcc/files/TDM-GCC%20Installer/
     Yasm for Windows, http://yasm.tortall.net/Download.html
 
-4args.c, Суммирование 4-х слагаемых, записанных в регистры ECX,EDX,R8D,R9D (x64 ABI for TDM GCC).
+4args.c, Суммирование 4-х слагаемых, записанных в регистры ECX,EDX,R8D,R9D;
+  x64 ABI for TDM GCC in Windows.
